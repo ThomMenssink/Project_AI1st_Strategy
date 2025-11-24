@@ -1,4 +1,4 @@
-# PROJECT INDEX — [Projectnaam]
+# PROJECT INDEX — Project_AI1st_Strategy
 
 ## 1. Projectdoel
 Het project heeft als doel om Inpact volledig te transformeren van een traditioneel, legacy-afhankelijk softwarebedrijf naar een AI-first, end-to-end Insurance Platform-as-a-Service dat de hele waardeketen digitaliseert, legacy volledig elimineert, 40% efficiënter gaat werken, marktleider wordt in NL en klaarstaat voor internationale schaal.
